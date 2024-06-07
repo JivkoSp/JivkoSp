@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
-<p align="left" width="20"> <img src="https://komarev.com/ghpvc/?username=jivkosp&label=Profile%20views&color=0e75b6&style=flat" alt="jivkosp" /> </p>
+<p align="left" width="20px"> <img src="https://komarev.com/ghpvc/?username=jivkosp&label=Profile%20views&color=0e75b6&style=flat" alt="jivkosp" /> </p>
 
 <p align="left"> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </p>
 
