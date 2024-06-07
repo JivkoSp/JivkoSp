@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivkosp&label=Profile%20views&color=0e75b6&style=flat" alt="jivkosp" /> </p>
 
-<div style="width:10px">
+<div style="padding-right:10px;">
   All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 </div>
 
