@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Drahten - A microservice application with a focus on cybersecurity.](https://github.com/JivkoSp/Drahten)
 
-<h3 align="left">Connect with me: atjspasov@gmail.com</h3>
+<h4 align="left">Connect with me: atjspasov@gmail.com</h3>
 <p align="left">
 </p>
 
