@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivkosp&label=Profile%20views&color=0e75b6&style=flat" alt="jivkosp" /> </p>
 
-- 🔭 I’m currently working on [Drahten - A microservice application with a focus on cybersecurity.](https://github.com/JivkoSp/Drahten)
+- 🔭 I’m currently working on [Drahten](https://github.com/JivkoSp/Drahten)
 - 📫 How to reach me **atjspasov@gmail.com**
 <p align="left">
 </p>
