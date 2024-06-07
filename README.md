@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivkosp&label=Profile%20views&color=0e75b6&style=flat" alt="jivkosp" /> </p>
 
-<p align="left" width="20px"> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </p>
+<div style="width:10px">
+  All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+</div>
 
 - 🔭 I’m currently working on [Drahten](https://github.com/JivkoSp/Drahten)
 - 📫 How to reach me **atjspasov@gmail.com**
