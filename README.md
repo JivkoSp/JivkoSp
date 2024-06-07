@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jivkosp&show_icons=true&locale=en&theme=transparent" alt="jivkosp" width="400" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jivkosp&repo=Drahten)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jivkosp&repo=Drahten&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
