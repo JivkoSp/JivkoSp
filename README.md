@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Jivko!</h1>
 <p> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </p>
-<img align="right" alt="Coding" width="230" style="padding-left:10px;" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
+<img align="right" alt="Coding" width="280" style="padding-left:10px;" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivkosp&label=Profile%20views&color=0e75b6&style=flat" alt="jivkosp" /> </p>
 
