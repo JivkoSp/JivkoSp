@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="32%">
   <img src="https://streak-stats.demolab.com?user=jivkosp&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" width="35%" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jivkosp&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" width="" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="25%">
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jivkosp&repo=Drahten&theme=transparent)](https://github.com/JivkoSp/Drahten)
