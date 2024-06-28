@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I'm Jivko!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0C35F7&background=1BD4FF00&width=500&height=80&lines=Hello%2C+My+name+is+Jivko+Spasov;)](https://git.io/typing-svg)
 <p> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivkosp&label=Profile%20views&color=0e75b6&style=flat" alt="jivkosp" /> </p>
