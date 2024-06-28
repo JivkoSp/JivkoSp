@@ -7,7 +7,7 @@
 - 📫 How to reach me **atjspasov@gmail.com**
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="32%">
 </div>
 
   
