@@ -15,4 +15,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="25%">
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jivkosp&repo=Drahten&theme=transparent)](https://github.com/JivkoSp/Drahten)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jivkosp&repo=Drahten&theme=transparent&hide_border=true)](https://github.com/JivkoSp/Drahten)
