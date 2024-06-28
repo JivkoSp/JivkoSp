@@ -16,8 +16,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jivkosp&show_icons=true&locale=en&layout=compact&theme=transparent" alt="jivkosp" />
 </div>
 
-<p></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jivkosp&show_icons=true&locale=en&theme=transparent" alt="jivkosp" width="400" /></p>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jivkosp&repo=Drahten&theme=transparent)](https://github.com/JivkoSp/Drahten)
