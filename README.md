@@ -2,7 +2,7 @@
 <p> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jivkosp&color=grey&label=Visitors" alt="jivkosp" /> </p>
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="30%">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%">
 
 - 🔭 I’m currently working on [Drahten](https://github.com/JivkoSp/Drahten)
 - 📫 How to reach me **atjspasov@gmail.com**
