@@ -19,8 +19,7 @@
   <img src="https://streak-stats.demolab.com?user=jivkosp&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" width="45%" alt="streak graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JivkoSp&theme=transparent&hide_border=true" alt="Wakatime stats" />
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jivkosp&repo=Drahten&theme=transparent&hide_border=true)](https://github.com/JivkoSp/Drahten)
