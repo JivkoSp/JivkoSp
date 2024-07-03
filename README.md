@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jivkosp&theme=transparent&hide_border=true" alt="Wakatime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JivkoSp&theme=transparent&hide_border=true" alt="Wakatime stats" />
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jivkosp&repo=Drahten&theme=transparent&hide_border=true)](https://github.com/JivkoSp/Drahten)
