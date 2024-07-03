@@ -2,7 +2,7 @@
 
 <p> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </p>
 
-![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JivkoSp&theme=react-dark)
+![3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?username=jivkosp)
 
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%">
 
