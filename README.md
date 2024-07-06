@@ -24,12 +24,12 @@
 </div>
 </br>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%">
-
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="49%">
   <img src="https://streak-stats.demolab.com?user=jivkosp&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" width="49%" alt="streak graph" />
 </div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%">
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
