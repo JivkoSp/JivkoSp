@@ -6,7 +6,7 @@
 
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%">
 
-* 🔭 I’m currently working on [Drahten](https://github.com/JivkoSp/Drahten)
+* 🔭 <p align="left">I’m currently working on [Drahten](https://github.com/JivkoSp/Drahten)</p> 
 * 📫 How to reach me **atjspasov@gmail.com**
 
 <h3 align="left"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 17px> Languages and Tools I use</h3>
