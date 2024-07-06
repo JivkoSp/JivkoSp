@@ -29,10 +29,6 @@
   <img src="https://streak-stats.demolab.com?user=jivkosp&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" width="49%" alt="streak graph" />
 </div>
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%">
-</div>
-
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
