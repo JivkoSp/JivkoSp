@@ -26,8 +26,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="45%">
-  <img src="https://streak-stats.demolab.com?user=jivkosp&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" width="45%" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="49%">
+  <img src="https://streak-stats.demolab.com?user=jivkosp&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" width="49%" alt="streak graph" />
 </div>
 
 <!--START_SECTION:waka-->
