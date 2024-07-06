@@ -23,6 +23,7 @@
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" alt="Elasticsearch" title="Elasticsearch"/></code>
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 	<code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ"/></code>
+	<code><img width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git"/></code>
 </div>
 
 <div align="center">
