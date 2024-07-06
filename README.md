@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0C35F7&background=1BD4FF00&width=500&height=80&lines=Hello%2C+My+name+is+Jivko+Spasov;)](https://git.io/typing-svg)
 
-<h3> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </h3>
+<h4> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. </h4>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jivkosp&theme=react-dark&hide_border=true)](https://github.com/JivkoSp/github-readme-activity-graph)
 
