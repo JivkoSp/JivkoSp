@@ -4,11 +4,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jivkosp&theme=react-dark&hide_border=true)](https://github.com/JivkoSp/github-readme-activity-graph)
 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%">
-
 <p align="left"> * 🔭 I’m currently working on <a href="https://github.com/JivkoSp/Drahten">Drahten</a></p>
 <p align="left">* 📫 How to reach me [<strong>atjspasov@gmail.com</strong>]</p>
-</br>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%">
 
 <h3 align="left"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 17px> Languages and Tools I use</h3>
 <div align="left">
@@ -25,7 +24,7 @@
 	<code><img width="4%" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ"/></code>
 	<code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git"/></code>
 </div>
-
+</br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jivkosp&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="49%">
   <img src="https://streak-stats.demolab.com?user=jivkosp&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" width="49%" alt="streak graph" />
