@@ -4,7 +4,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jivkosp&theme=react-dark&hide_border=true)](https://github.com/JivkoSp/github-readme-activity-graph)
 
-- 🛠 I’m currently working on [Drahten](https://github.com/JivkoSp/Drahten)
+- 🛠 I’m currently working on [RepoPilot](https://github.com/JivkoSp/RepoPilot)
 - 📫 How to reach me **atjspasov@gmail.com**
 
 <h3 align="left"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 17px> Languages and Tools I use</h3>
@@ -82,4 +82,5 @@ Windows                  28 hrs 47 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
  Last Updated on 01/08/2024 18:39:58 UTC
 <!--END_SECTION:waka-->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jivkosp&repo=RepoPilot&theme=transparent&hide_border=true)](https://github.com/JivkoSp/RepoPilot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jivkosp&repo=Drahten&theme=transparent&hide_border=true)](https://github.com/JivkoSp/Drahten)
