@@ -83,4 +83,5 @@ Windows                  28 hrs 47 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!--END_SECTION:waka-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jivkosp&repo=RepoPilot&theme=transparent&hide_border=true)](https://github.com/JivkoSp/RepoPilot)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jivkosp&repo=Drahten&theme=transparent&hide_border=true)](https://github.com/JivkoSp/Drahten)
